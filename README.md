@@ -15,12 +15,12 @@ img_feature/item_dict.pkl is the fashion item area information in each post.
 ## Code
 The code is stored in the Senti1/ folder
 
-##Cite
-'''
-@article{Yuan2021SentimentAO,
+## Cite
+```
+@inproceedings{Yuan2021SentimentAO,
   title={Sentiment Analysis of Fashion Related Posts in Social Media},
   author={Yifei Yuan and Wai Lam},
   booktitle={WSDM},
   year={2021}
 }
-'''
+```
