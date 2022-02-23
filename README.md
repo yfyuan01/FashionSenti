@@ -13,7 +13,9 @@ img_feature/face_dict.pkl is the face area information of the person in each pos
 img_feature/item_dict.pkl is the fashion item area information in each post.
 
 ## Code
-The code is stored in the Senti1/ folder
+Model/ stores the code of the baselines and the different components
+Preprocess/ stores the basic preprocess code
+opt/ stores the evaluation code
 
 ## Cite
 ```
