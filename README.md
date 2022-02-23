@@ -14,7 +14,9 @@ img_feature/item_dict.pkl is the fashion item area information in each post.
 
 ## Code
 Model/ stores the code of the baselines and the different components
+
 Preprocess/ stores the basic preprocess code
+
 opt/ stores the evaluation code
 
 ## Cite
