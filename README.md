@@ -19,6 +19,9 @@ Preprocess/ stores the basic preprocess code
 
 opt/ stores the evaluation code
 
+To train the code, use the command
+python main.py --backbone resnet18 --batch_size 32 --gpu_id [gpu_id] --lr 0.0005 --method a2t --text_method lstm-gru >./expr/train_a2t.log 2>&1 &
+
 ## Cite
 ```
 @inproceedings{Yuan2021SentimentAO,
